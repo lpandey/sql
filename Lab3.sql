@@ -4,7 +4,7 @@ drop table employees, job_history, jobs, departments, locations ;
 -- run Script_Create_Tables.sql to create tables (employees, job_history, jobs, departments, locations)
 
 -- variable with path to files
---\set mydir '/Users/pandeyl/OneDrive%/classes/professionaDevelopment/SQL-for-DataScience'
+--\set mydir '/Users/User/SQL-for-DataScience'
 -- \set scrptf : mydir '/Script_Create_Tables.sql'
 
 -- \i allows including another sql file
